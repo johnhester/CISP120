@@ -40,6 +40,7 @@ int main()
     cout << "\nThe average of your entries is: " << avg << endl << endl;
 
     delete[] arrPtr;
+    arrPtr = nullptr;
 }
 
 //obtain initial value, validate input
