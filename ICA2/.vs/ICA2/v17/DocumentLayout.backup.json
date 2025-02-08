@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\John\\workspace\\CISP 1020\\ICA2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60EFBE0B-E6DA-49DC-A728-A691F731FE38}|ICA2\\ICA2.vcxproj|C:\\Users\\John\\workspace\\CISP 1020\\ICA2\\ICA2\\ICA2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60EFBE0B-E6DA-49DC-A728-A691F731FE38}|ICA2\\ICA2.vcxproj|solutionrelative:ICA2\\ICA2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICA2.cpp",
+              "DocumentMoniker": "C:\\Users\\John\\workspace\\CISP 1020\\ICA2\\ICA2\\ICA2.cpp",
+              "RelativeDocumentMoniker": "ICA2\\ICA2.cpp",
+              "ToolTip": "C:\\Users\\John\\workspace\\CISP 1020\\ICA2\\ICA2\\ICA2.cpp",
+              "RelativeToolTip": "ICA2\\ICA2.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-08T22:22:22.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
