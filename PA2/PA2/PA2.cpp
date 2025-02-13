@@ -3,7 +3,7 @@ John Hester
 CISP 1020-W01
 Programming Assignment 2
 2/12/2025
-Description: This user gathers user budget data, stores it in an array by month, and prints out the toaverage spent per month
+Description: This user gathers user budget data, stores it in an array by month, and prints out the total spent per month and averages spent per month for the year
 */
 
 #include <iostream>
