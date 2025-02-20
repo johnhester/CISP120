@@ -76,7 +76,7 @@ public:
     //destructor
     ~Payroll()
     {
-        cout << "\nHave a greate day!\n";
+        cout << "\nHave a great day!\n";
     }
 };
 
