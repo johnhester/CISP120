@@ -46,6 +46,15 @@ public:
         cout << "\nHave a great day!\n";
     };
     //accessors & mutators
+    double getRadius()
+    {
+        return radius;
+    }
+    void setRadius(double rad)
+    {
+        radius = rad;
+    }
+    //calculation methods
     double getArea()
     {
         return pi * (radius * radius);
