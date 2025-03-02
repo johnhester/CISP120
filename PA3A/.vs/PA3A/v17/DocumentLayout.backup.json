@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\John\\workspace\\CISP 1020\\PA3A\\",
+  "WorkspaceRootPath": "C:\\Users\\heste\\workspace\\collegeCourses\\CISP120\\PA3A\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A67F69F-C7AB-433E-9E80-A88AB57E1B18}|PA3A\\PA3A.vcxproj|C:\\Users\\John\\workspace\\CISP 1020\\PA3A\\PA3A\\PA3A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{9A67F69F-C7AB-433E-9E80-A88AB57E1B18}|PA3A\\PA3A.vcxproj|C:\\Users\\heste\\workspace\\collegeCourses\\CISP120\\PA3A\\PA3A\\PA3A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9A67F69F-C7AB-433E-9E80-A88AB57E1B18}|PA3A\\PA3A.vcxproj|solutionrelative:PA3A\\PA3A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PA3A.cpp",
-              "DocumentMoniker": "C:\\Users\\John\\workspace\\CISP 1020\\PA3A\\PA3A\\PA3A.cpp",
+              "DocumentMoniker": "C:\\Users\\heste\\workspace\\collegeCourses\\CISP120\\PA3A\\PA3A\\PA3A.cpp",
               "RelativeDocumentMoniker": "PA3A\\PA3A.cpp",
-              "ToolTip": "C:\\Users\\John\\workspace\\CISP 1020\\PA3A\\PA3A\\PA3A.cpp",
+              "ToolTip": "C:\\Users\\heste\\workspace\\collegeCourses\\CISP120\\PA3A\\PA3A\\PA3A.cpp",
               "RelativeToolTip": "PA3A\\PA3A.cpp",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE4AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAGAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-18T01:13:44.647Z",
               "EditorCaption": ""

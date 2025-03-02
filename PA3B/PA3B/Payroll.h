@@ -21,13 +21,15 @@ private:
     double payRate;
     double hours;
     static int objectCount;
-    static double employeeSalaries;
+    static double totalEmployeeSalaries;
     void createStrArray(string n, string t);
 public:
     //defaults
     Payroll();
     //constructor overload
     Payroll(string n, string t, double pR, double h);
+    //copy constructor 
+    Payroll(Payroll& obj);
     //getters 
     string getName() const;
     string getTitle() const;
@@ -35,6 +37,7 @@ public:
     double getHours() const;
     //static getter
     static int getObjCount();
+    static double getSalaries();
     //setters
     void setName(string n);
     void setTitle(string t);
@@ -44,9 +47,16 @@ public:
     double calcPay();
     //prints name, title, & weekly pay
     void Print();
-    //calculates and adds salaries to each new employee
     //overloads
-
+    //assignment
+    const Payroll operator=(Payroll &right);
+    //equality
+    bool operator ==(const Payroll& right);
+    //subraction
+    double operator -(Payroll& right);
+    //iostream
+    friend ostream& operator << (ostream&, Payroll&);
+    friend istream& operator >> (istream&, Payroll&);
     //destructor
     ~Payroll();
 };
